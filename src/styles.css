@@ -1,0 +1,31 @@
+#infoPage {
+  position: absolute;
+  left: 0;
+  right: 0;
+
+  width: 100%;
+  height: 93vh;
+  background-image: url('/banner.jpg');
+  background-size: cover; /* ajusta el tamaño de la imagen al tamaño del div */
+  background-position: center; /* centra la imagen en el div */
+}
+
+#loginPage {
+  top: 0;
+  left: 0;
+  right: 0;
+  margin-top: 0;
+  background-image: url('/banner.jpg');
+  width: 100%;
+  height: 100vh;
+  background-size: cover; /* ajusta el tamaño de la imagen al tamaño del div */
+  background-position: center; /* centra la imagen en el div */
+}
+
+.loginContainer {
+  height: 100vh;
+}
+
+.navbar {
+  height: 7vh;
+}
